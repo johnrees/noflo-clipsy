@@ -1,0 +1,5 @@
+5 -> DELTA Off2(Offset)
+5 -> MITERLIMIT Off2
+2 -> JOINTYPE Off2
+
+Off2 OUT -> Display(core/Output)

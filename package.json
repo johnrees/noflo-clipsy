@@ -1,0 +1,32 @@
+{
+  "name": "noflo-clipsy",
+  "version": "0.0.1",
+  "description": "NoFlo Clipsy.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnrees/clipsy.git"
+  },
+  "keywords": ["noflo"],
+  "author": {
+    "name": "John Rees",
+    "email": "john@bitsushi.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "clipsy": "0.0.3",
+    "noflo": "^0.7.9",
+    "noflo-core": "^0.2.3"
+  },
+  "devDependencies": {
+    "noflo-nodejs": "^0.7.1"
+  },
+  "noflo": {
+    "components": {
+      "Offset": "./components/Offset.coffee"
+    }
+  }
+}
