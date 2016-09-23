@@ -1,5 +1,5 @@
 {
-  "name": "noflo-clipsy",
+  "name": "@johnrees/noflo-clipsy",
   "version": "0.0.1",
   "description": "NoFlo Clipsy.js",
   "main": "index.js",
