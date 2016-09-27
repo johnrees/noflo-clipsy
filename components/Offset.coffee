@@ -4,7 +4,7 @@ clipsy = require 'clipsy'
 exports.getComponent = ->
   c = new noflo.Component
   c.description = 'Encapsulates the process of offsetting (inflating/deflating) both open and closed paths.'
-  c.icon = 'camera'
+  c.icon = 'arrows-alt'
 
   # c.inPorts.add 'paths',
   #   datatype: 'all'
